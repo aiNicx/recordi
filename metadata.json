@@ -1,0 +1,9 @@
+{
+  "name": "recordi",
+  "description": "A screen and camera recorder with AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
